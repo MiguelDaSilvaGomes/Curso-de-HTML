@@ -1,3 +1,4 @@
 # Curso de HTMl e CSS
 
-- Aprendendo a usar tabelas.
+- aprendizado de HTML e CSS
+- Modulos 3,4 e 5 do Curso em vídeo
